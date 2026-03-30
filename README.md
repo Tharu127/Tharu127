@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:ec4899,100:f093fb&height=220&section=header&text=THARUSHI%20NAVODI%20WITHANACHCHI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20SE%20Student&descAlignY=60&descColor=dddddd&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:ec4899,100:f093fb&height=220&section=header&text=THARUSHI%20NAVODI%20WITHANACHCHI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20SE%20Student&descAlignY=60&descColor=dddddd&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -25,11 +25,11 @@
 
 I'm a Software Engineering student and a passionate Full-Stack Developer. I enjoy bringing ideas to life by building responsive, user-friendly web applications and creating thoughtful, intuitive designs. I thrive on bridging the gap between frontend experiences and backend functionality to deliver seamless digital solutions.
 
-🎓 Pursuing my Higher National Diploma in Software Engineering
-💻 Skilled in Full-Stack Development and UI/UX Design
-🌸 Based in Sri Lanka 🇱🇰
-🌱 Currently deepening my expertise in React, Node.js, and Figma
-✨ I believe great design is invisible — you just feel it
+-🎓 Pursuing my Higher National Diploma in Software Engineering
+-💻 Skilled in Full-Stack Development and UI/UX Design
+-🌸 Based in Sri Lanka 🇱🇰
+-🌱 Currently deepening my expertise in React, Node.js, and Figma
+-✨ I believe great design is invisible — you just feel it
 
 ---
 
